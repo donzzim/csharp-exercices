@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\C#\FIlesExercice\bin\Debug\net10.0\FIlesExercice.exe
+C:\Users\lucas\Desktop\C#\FIlesExercice\bin\Debug\net10.0\FIlesExercice.deps.json
+C:\Users\lucas\Desktop\C#\FIlesExercice\bin\Debug\net10.0\FIlesExercice.runtimeconfig.json
+C:\Users\lucas\Desktop\C#\FIlesExercice\bin\Debug\net10.0\FIlesExercice.dll
+C:\Users\lucas\Desktop\C#\FIlesExercice\bin\Debug\net10.0\FIlesExercice.pdb
+C:\Users\lucas\Desktop\C#\FIlesExercice\obj\Debug\net10.0\FIlesExercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\C#\FIlesExercice\obj\Debug\net10.0\FIlesExercice.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\C#\FIlesExercice\obj\Debug\net10.0\FIlesExercice.AssemblyInfo.cs
+C:\Users\lucas\Desktop\C#\FIlesExercice\obj\Debug\net10.0\FIlesExercice.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C#\FIlesExercice\obj\Debug\net10.0\FIlesExercice.dll
+C:\Users\lucas\Desktop\C#\FIlesExercice\obj\Debug\net10.0\refint\FIlesExercice.dll
+C:\Users\lucas\Desktop\C#\FIlesExercice\obj\Debug\net10.0\FIlesExercice.pdb
+C:\Users\lucas\Desktop\C#\FIlesExercice\obj\Debug\net10.0\FIlesExercice.genruntimeconfig.cache
+C:\Users\lucas\Desktop\C#\FIlesExercice\obj\Debug\net10.0\ref\FIlesExercice.dll

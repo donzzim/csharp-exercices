@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\C#\ExercicioArquivosChatGPT\bin\Debug\net10.0\ExercicioArquivosChatGPT.exe
+C:\Users\lucas\Desktop\C#\ExercicioArquivosChatGPT\bin\Debug\net10.0\ExercicioArquivosChatGPT.deps.json
+C:\Users\lucas\Desktop\C#\ExercicioArquivosChatGPT\bin\Debug\net10.0\ExercicioArquivosChatGPT.runtimeconfig.json
+C:\Users\lucas\Desktop\C#\ExercicioArquivosChatGPT\bin\Debug\net10.0\ExercicioArquivosChatGPT.dll
+C:\Users\lucas\Desktop\C#\ExercicioArquivosChatGPT\bin\Debug\net10.0\ExercicioArquivosChatGPT.pdb
+C:\Users\lucas\Desktop\C#\ExercicioArquivosChatGPT\obj\Debug\net10.0\ExercicioArquivosChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\C#\ExercicioArquivosChatGPT\obj\Debug\net10.0\ExercicioArquivosChatGPT.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\C#\ExercicioArquivosChatGPT\obj\Debug\net10.0\ExercicioArquivosChatGPT.AssemblyInfo.cs
+C:\Users\lucas\Desktop\C#\ExercicioArquivosChatGPT\obj\Debug\net10.0\ExercicioArquivosChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C#\ExercicioArquivosChatGPT\obj\Debug\net10.0\ExercicioArquivosChatGPT.dll
+C:\Users\lucas\Desktop\C#\ExercicioArquivosChatGPT\obj\Debug\net10.0\refint\ExercicioArquivosChatGPT.dll
+C:\Users\lucas\Desktop\C#\ExercicioArquivosChatGPT\obj\Debug\net10.0\ExercicioArquivosChatGPT.pdb
+C:\Users\lucas\Desktop\C#\ExercicioArquivosChatGPT\obj\Debug\net10.0\ExercicioArquivosChatGPT.genruntimeconfig.cache
+C:\Users\lucas\Desktop\C#\ExercicioArquivosChatGPT\obj\Debug\net10.0\ref\ExercicioArquivosChatGPT.dll

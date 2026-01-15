@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\C#\ReceitaFederal\bin\Debug\net10.0\ReceitaFederal.exe
+C:\Users\lucas\Desktop\C#\ReceitaFederal\bin\Debug\net10.0\ReceitaFederal.deps.json
+C:\Users\lucas\Desktop\C#\ReceitaFederal\bin\Debug\net10.0\ReceitaFederal.runtimeconfig.json
+C:\Users\lucas\Desktop\C#\ReceitaFederal\bin\Debug\net10.0\ReceitaFederal.dll
+C:\Users\lucas\Desktop\C#\ReceitaFederal\bin\Debug\net10.0\ReceitaFederal.pdb
+C:\Users\lucas\Desktop\C#\ReceitaFederal\obj\Debug\net10.0\ReceitaFederal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\C#\ReceitaFederal\obj\Debug\net10.0\ReceitaFederal.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\C#\ReceitaFederal\obj\Debug\net10.0\ReceitaFederal.AssemblyInfo.cs
+C:\Users\lucas\Desktop\C#\ReceitaFederal\obj\Debug\net10.0\ReceitaFederal.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C#\ReceitaFederal\obj\Debug\net10.0\ReceitaFederal.dll
+C:\Users\lucas\Desktop\C#\ReceitaFederal\obj\Debug\net10.0\refint\ReceitaFederal.dll
+C:\Users\lucas\Desktop\C#\ReceitaFederal\obj\Debug\net10.0\ReceitaFederal.pdb
+C:\Users\lucas\Desktop\C#\ReceitaFederal\obj\Debug\net10.0\ReceitaFederal.genruntimeconfig.cache
+C:\Users\lucas\Desktop\C#\ReceitaFederal\obj\Debug\net10.0\ref\ReceitaFederal.dll

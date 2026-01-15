@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\C#\ExceptionsExercicio\bin\Debug\net10.0\ExceptionsExercicio.exe
+C:\Users\lucas\Desktop\C#\ExceptionsExercicio\bin\Debug\net10.0\ExceptionsExercicio.deps.json
+C:\Users\lucas\Desktop\C#\ExceptionsExercicio\bin\Debug\net10.0\ExceptionsExercicio.runtimeconfig.json
+C:\Users\lucas\Desktop\C#\ExceptionsExercicio\bin\Debug\net10.0\ExceptionsExercicio.dll
+C:\Users\lucas\Desktop\C#\ExceptionsExercicio\bin\Debug\net10.0\ExceptionsExercicio.pdb
+C:\Users\lucas\Desktop\C#\ExceptionsExercicio\obj\Debug\net10.0\ExceptionsExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\C#\ExceptionsExercicio\obj\Debug\net10.0\ExceptionsExercicio.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\C#\ExceptionsExercicio\obj\Debug\net10.0\ExceptionsExercicio.AssemblyInfo.cs
+C:\Users\lucas\Desktop\C#\ExceptionsExercicio\obj\Debug\net10.0\ExceptionsExercicio.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C#\ExceptionsExercicio\obj\Debug\net10.0\ExceptionsExercicio.dll
+C:\Users\lucas\Desktop\C#\ExceptionsExercicio\obj\Debug\net10.0\refint\ExceptionsExercicio.dll
+C:\Users\lucas\Desktop\C#\ExceptionsExercicio\obj\Debug\net10.0\ExceptionsExercicio.pdb
+C:\Users\lucas\Desktop\C#\ExceptionsExercicio\obj\Debug\net10.0\ExceptionsExercicio.genruntimeconfig.cache
+C:\Users\lucas\Desktop\C#\ExceptionsExercicio\obj\Debug\net10.0\ref\ExceptionsExercicio.dll
