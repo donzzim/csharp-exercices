@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\IComparableExercice\bin\Debug\net10.0\IComparableExercice.exe
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\IComparableExercice\bin\Debug\net10.0\IComparableExercice.deps.json
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\IComparableExercice\bin\Debug\net10.0\IComparableExercice.runtimeconfig.json
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\IComparableExercice\bin\Debug\net10.0\IComparableExercice.dll
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\IComparableExercice\bin\Debug\net10.0\IComparableExercice.pdb
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\IComparableExercice\obj\Debug\net10.0\IComparableExercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\IComparableExercice\obj\Debug\net10.0\IComparableExercice.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\IComparableExercice\obj\Debug\net10.0\IComparableExercice.AssemblyInfo.cs
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\IComparableExercice\obj\Debug\net10.0\IComparableExercice.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\IComparableExercice\obj\Debug\net10.0\IComparableExercice.sourcelink.json
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\IComparableExercice\obj\Debug\net10.0\IComparableExercice.dll
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\IComparableExercice\obj\Debug\net10.0\refint\IComparableExercice.dll
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\IComparableExercice\obj\Debug\net10.0\IComparableExercice.pdb
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\IComparableExercice\obj\Debug\net10.0\IComparableExercice.genruntimeconfig.cache
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\IComparableExercice\obj\Debug\net10.0\ref\IComparableExercice.dll
