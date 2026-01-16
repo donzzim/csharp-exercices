@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\GenericsExerciceExample\bin\Debug\net10.0\GenericsExerciceExample.exe
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\GenericsExerciceExample\bin\Debug\net10.0\GenericsExerciceExample.deps.json
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\GenericsExerciceExample\bin\Debug\net10.0\GenericsExerciceExample.runtimeconfig.json
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\GenericsExerciceExample\bin\Debug\net10.0\GenericsExerciceExample.dll
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\GenericsExerciceExample\bin\Debug\net10.0\GenericsExerciceExample.pdb
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\GenericsExerciceExample\obj\Debug\net10.0\GenericsExerciceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\GenericsExerciceExample\obj\Debug\net10.0\GenericsExerciceExample.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\GenericsExerciceExample\obj\Debug\net10.0\GenericsExerciceExample.AssemblyInfo.cs
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\GenericsExerciceExample\obj\Debug\net10.0\GenericsExerciceExample.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\GenericsExerciceExample\obj\Debug\net10.0\GenericsExerciceExample.sourcelink.json
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\GenericsExerciceExample\obj\Debug\net10.0\GenericsExerciceExample.dll
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\GenericsExerciceExample\obj\Debug\net10.0\refint\GenericsExerciceExample.dll
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\GenericsExerciceExample\obj\Debug\net10.0\GenericsExerciceExample.pdb
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\GenericsExerciceExample\obj\Debug\net10.0\GenericsExerciceExample.genruntimeconfig.cache
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\GenericsExerciceExample\obj\Debug\net10.0\ref\GenericsExerciceExample.dll
