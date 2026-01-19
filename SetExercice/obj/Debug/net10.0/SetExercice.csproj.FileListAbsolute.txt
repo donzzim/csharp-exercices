@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\SetExercice\bin\Debug\net10.0\SetExercice.exe
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\SetExercice\bin\Debug\net10.0\SetExercice.deps.json
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\SetExercice\bin\Debug\net10.0\SetExercice.runtimeconfig.json
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\SetExercice\bin\Debug\net10.0\SetExercice.dll
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\SetExercice\bin\Debug\net10.0\SetExercice.pdb
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\SetExercice\obj\Debug\net10.0\SetExercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\SetExercice\obj\Debug\net10.0\SetExercice.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\SetExercice\obj\Debug\net10.0\SetExercice.AssemblyInfo.cs
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\SetExercice\obj\Debug\net10.0\SetExercice.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\SetExercice\obj\Debug\net10.0\SetExercice.sourcelink.json
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\SetExercice\obj\Debug\net10.0\SetExercice.dll
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\SetExercice\obj\Debug\net10.0\refint\SetExercice.dll
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\SetExercice\obj\Debug\net10.0\SetExercice.pdb
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\SetExercice\obj\Debug\net10.0\SetExercice.genruntimeconfig.cache
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\SetExercice\obj\Debug\net10.0\ref\SetExercice.dll
