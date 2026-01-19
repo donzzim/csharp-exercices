@@ -11,8 +11,13 @@ public class Course
         Name = name;
     }
 
+    public int TotalStudentsCount()
+    {
+        return Students.Count;
+    }
+
     public override string ToString()
     {
-        return $"Course Data: \n Name: {Name} \n Teacher: {Instructor.Name}";
+        return $"Course Data: \n Name: {Name} \n Teacher: {Instructor.Name} \n Total Students: {TotalStudentsCount()}";
     }
 }
