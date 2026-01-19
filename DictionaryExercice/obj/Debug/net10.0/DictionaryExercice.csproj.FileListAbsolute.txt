@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\DictionaryExercice\bin\Debug\net10.0\DictionaryExercice.exe
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\DictionaryExercice\bin\Debug\net10.0\DictionaryExercice.deps.json
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\DictionaryExercice\bin\Debug\net10.0\DictionaryExercice.runtimeconfig.json
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\DictionaryExercice\bin\Debug\net10.0\DictionaryExercice.dll
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\DictionaryExercice\bin\Debug\net10.0\DictionaryExercice.pdb
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\DictionaryExercice\obj\Debug\net10.0\DictionaryExercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\DictionaryExercice\obj\Debug\net10.0\DictionaryExercice.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\DictionaryExercice\obj\Debug\net10.0\DictionaryExercice.AssemblyInfo.cs
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\DictionaryExercice\obj\Debug\net10.0\DictionaryExercice.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\DictionaryExercice\obj\Debug\net10.0\DictionaryExercice.sourcelink.json
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\DictionaryExercice\obj\Debug\net10.0\DictionaryExercice.dll
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\DictionaryExercice\obj\Debug\net10.0\refint\DictionaryExercice.dll
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\DictionaryExercice\obj\Debug\net10.0\DictionaryExercice.pdb
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\DictionaryExercice\obj\Debug\net10.0\DictionaryExercice.genruntimeconfig.cache
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\DictionaryExercice\obj\Debug\net10.0\ref\DictionaryExercice.dll
