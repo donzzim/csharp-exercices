@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExercice02\bin\Debug\net10.0\LinqExercice02.exe
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExercice02\bin\Debug\net10.0\LinqExercice02.deps.json
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExercice02\bin\Debug\net10.0\LinqExercice02.runtimeconfig.json
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExercice02\bin\Debug\net10.0\LinqExercice02.dll
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExercice02\bin\Debug\net10.0\LinqExercice02.pdb
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExercice02\obj\Debug\net10.0\LinqExercice02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExercice02\obj\Debug\net10.0\LinqExercice02.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExercice02\obj\Debug\net10.0\LinqExercice02.AssemblyInfo.cs
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExercice02\obj\Debug\net10.0\LinqExercice02.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExercice02\obj\Debug\net10.0\LinqExercice02.sourcelink.json
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExercice02\obj\Debug\net10.0\LinqExercice02.dll
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExercice02\obj\Debug\net10.0\refint\LinqExercice02.dll
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExercice02\obj\Debug\net10.0\LinqExercice02.pdb
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExercice02\obj\Debug\net10.0\LinqExercice02.genruntimeconfig.cache
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExercice02\obj\Debug\net10.0\ref\LinqExercice02.dll
