@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExample\bin\Debug\net10.0\LinqExample.exe
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExample\bin\Debug\net10.0\LinqExample.deps.json
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExample\bin\Debug\net10.0\LinqExample.runtimeconfig.json
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExample\bin\Debug\net10.0\LinqExample.dll
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExample\bin\Debug\net10.0\LinqExample.pdb
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExample\obj\Debug\net10.0\LinqExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExample\obj\Debug\net10.0\LinqExample.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExample\obj\Debug\net10.0\LinqExample.AssemblyInfo.cs
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExample\obj\Debug\net10.0\LinqExample.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExample\obj\Debug\net10.0\LinqExample.sourcelink.json
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExample\obj\Debug\net10.0\LinqExample.dll
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExample\obj\Debug\net10.0\refint\LinqExample.dll
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExample\obj\Debug\net10.0\LinqExample.pdb
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExample\obj\Debug\net10.0\LinqExample.genruntimeconfig.cache
+C:\Users\lucas\Desktop\C#\Exercices\csharp-exercices\LinqExample\obj\Debug\net10.0\ref\LinqExample.dll
