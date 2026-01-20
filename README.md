@@ -20,6 +20,7 @@ The repository includes exercises related to the following subjects:
 * **Exception Handling**
 * **File and Directory Manipulation**
 * **Practical Exercises and Examples**
+* More...
 
 ---
 
